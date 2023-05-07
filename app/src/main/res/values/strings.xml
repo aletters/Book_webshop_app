@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Book Webshop</string>
+    <string name="empty"> </string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="login_title">Book Webshop</string>
+    <string name="register">Regisztráció</string>
+    <string name="email">E-mail cím</string>
+    <string name="emailAgain">E-mail cím újra</string>
+    <string name="passwordAgain">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phoneNumber">Telefonszám</string>
+    <string name="address">Lakcím</string>
+    <string name="account_type">Fiók típusa:</string>
+    <string name="customer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Termékleírás helye</string>
+    <string name="cart">Kosárba</string>
+    <string name="delete">Törlés</string>
+    <string name="student">Diák</string>
+    <string name="teacher">Oktató</string>
+    <string-array name="phone_labels">
+        <item>Munkahelyi</item>
+        <item>Otthoni</item>
+    </string-array>
+
+    <string-array name="shopping_item_names">
+        <item>The Art Book  -  Art</item>
+        <item>Seven Days in the Art World  -  Art</item>
+        <item>Girl with a Pearl Earring  -  Art</item>
+        <item>The Letters of Vincent van Gogh  -  Art</item>
+        <item>V for Vendetta  -  Comic</item>
+        <item>Batman: The Killing Joke  -  Comic</item>
+        <item>Batman: The Dark Knight Returns  -  Comic</item>
+        <item>Batman: Year One  -  Comic</item>
+        <item>Harry Potter and the Philosopher’s Stone  -  Fantasy</item>
+        <item>The Hobbit  -  Fantasy</item>
+        <item>A Game of Thrones  -  Fantasy</item>
+        <item>The Fellowship of the Ring  -  Fantasy</item>
+        <item>Dune  -  Sci-fi</item>
+        <item>The Martian  -  Sci-fi</item>
+        <item>Ready Player One  -  Sci-fi</item>
+        <item>Blade Runner  -  Sci-fi</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>An A to Z guide to 500 great painters and sculptors from medieval to modern times.</item>
+        <item>Named one of the best art books of 2008 by The New York Times and The Sunday Times</item>
+        <item>The Dutch painter Johannes Vermeer represents one of the great enigmas of 17th-century art.</item>
+        <item>A new selection of post-impressionist painter Vincent Van Goughs letters.</item>
+        <item>A frightening and powerful tale of the loss of freedom and identity.</item>
+        <item>For the first time the Jokers origin is revealed in this tale of insanity and human perseverance.</item>
+        <item>This masterpiece of modern comics storytelling brings to vivid life a dark world and an even darker man.</item>
+        <item>A new edition of one of the most important and critically acclaimed Batman adventures ever.</item>
+        <item>Harry Potter thinks he is an ordinary boy until he is taken to Hogwarts School of Witchcraft and Wizardry.</item>
+        <item>In a hole in the ground there lived a hobbit.</item>
+        <item>Long ago, in a time forgotten, a preternatural event threw the seasons out of balance.</item>
+        <item>In a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task.</item>
+        <item>Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family.</item>
+        <item>Six days ago, astronaut Mark Watney became one of the first people to walk on Mars.</item>
+        <item>IN THE YEAR 2044, reality is an ugly place.</item>
+        <item>It was January 2021, and Rick Deckard had a license to kill.</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.86</item>
+        <item>3.62</item>
+        <item>3.92</item>
+        <item>4.08</item>
+        <item>4.26</item>
+        <item>4.36</item>
+        <item>4.26</item>
+        <item>4.23</item>
+        <item>4.47</item>
+        <item>4.28</item>
+        <item>4.44</item>
+        <item>4.38</item>
+        <item>4.26</item>
+        <item>4.41</item>
+        <item>4.23</item>
+        <item>4.09</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/art1</item>
+        <item>@drawable/art2</item>
+        <item>@drawable/art3</item>
+        <item>@drawable/art4</item>
+        <item>@drawable/comic1</item>
+        <item>@drawable/comic2</item>
+        <item>@drawable/comic3</item>
+        <item>@drawable/comic4</item>
+        <item>@drawable/fan1</item>
+        <item>@drawable/fan2</item>
+        <item>@drawable/fan3</item>
+        <item>@drawable/fan4</item>
+        <item>@drawable/sci1</item>
+        <item>@drawable/sci2</item>
+        <item>@drawable/sci3</item>
+        <item>@drawable/sci4</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>24 Dv</item>
+        <item>15 Dv</item>
+        <item>18 Dv</item>
+        <item>17 Dv</item>
+        <item>80 Dv</item>
+        <item>40 Dv</item>
+        <item>49 Dv</item>
+        <item>11 Dv</item>
+        <item>24 Dv</item>
+        <item>12 Dv</item>
+        <item>9 Dv</item>
+        <item>13 Dv</item>
+        <item>25 Dv</item>
+        <item>23 Dv</item>
+        <item>17 Dv</item>
+        <item>14 Dv</item>
+    </array>
+
+</resources>
