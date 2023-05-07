@@ -1,5 +1,7 @@
-# Book_webshop
- mobilalkfejl_gyak_projekt
+# Book_webshop - mobilalkfejl_gyak_projekt
+**APK**
+* https://drive.google.com/file/d/1Q_JLMXXRGMgSYsMe8w9vIMNRAw1ZhHIw/view?usp=sharing (ha valamiért Coospace nem engedné)
+
 
 Az app 99%-ban úgy készült, ahogy az a gyakorlati videókban bemutatásra került. Nem hiánytalan (ahogy az ott bemutatott app sem), de igyekeztem arra törekedni, hogy a pontozási kritériumok többségének megfeleljen és közben nézzen is ki valahogy.
 
